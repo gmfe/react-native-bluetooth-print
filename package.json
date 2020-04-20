@@ -28,5 +28,6 @@
   "peerDependencies": {
     "react-native": ">=0.40",
     "lodash": "^4.17.4"
-  }
+  },
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
 }
